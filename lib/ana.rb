@@ -10,7 +10,6 @@ class String
         result.push(word)
       end
     end
-    end
-    result
+  result
   end
 end
